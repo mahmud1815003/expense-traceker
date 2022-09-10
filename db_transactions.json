@@ -1,0 +1,40 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Salary from Google",
+      "type": "income",
+      "amount": 1000000
+    },
+    {
+      "id": 2,
+      "name": "Family Expenses",
+      "type": "expense",
+      "amount": 200000
+    },
+    {
+      "name": "KUET registration",
+      "amount": "2125",
+      "type": "expense",
+      "id": 3
+    },
+    {
+      "name": "dinning",
+      "amount": "15",
+      "type": "expense",
+      "id": 4
+    },
+    {
+      "name": "Hall Dues",
+      "amount": "7785",
+      "type": "expense",
+      "id": 5
+    },
+    {
+      "name": "Coke",
+      "amount": "30",
+      "type": "expense",
+      "id": 6
+    }
+  ]
+}
